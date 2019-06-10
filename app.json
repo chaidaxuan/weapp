@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/signup/index",
+    "pages/addInfo/index",
+    "pages/index/index",
+    "pages/promiseTest/index",
+    "pages/vote/vote",
+    "pages/signupconfirm/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {},
+  "sitemapLocation": "sitemap.json"
+}

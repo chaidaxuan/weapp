@@ -1,0 +1,66 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": false,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "1.9.91",
+	"appid": "wxb7cb70430e852449",
+	"projectname": "demo-weapp",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 3,
+			"list": [
+				{
+					"id": -1,
+					"name": "promise test",
+					"pathName": "pages/promiseTest/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "calendar test",
+					"pathName": "pages/calendar/calendar",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "vote",
+					"pathName": "pages/vote/vote",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "signupcomfirm",
+					"pathName": "pages/signupconfirm/index",
+					"scene": null
+				}
+			]
+		}
+	}
+}
